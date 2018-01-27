@@ -1,0 +1,1 @@
+This is a simple progressive web app that takes JSON API from newsapi.org as the data source.
